@@ -1,3 +1,3 @@
 # chartIt
 
-A simple whereapp where you can instantly graph any tabular data!
+A simple web app where you can instantly graph any tabular data!
